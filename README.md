@@ -48,7 +48,7 @@ Ensure `gcc`, `g++`, `gdb`, and `javac` are in your system PATH.
 1. **Clone or Download the Repository**
 
    ```sh
-   git clone [https://github.com/yourusername/CodeTogether.git
+   git clone https://github.com/yourusername/CodeTogether.git
    cd CodeTogether
    ```
 
